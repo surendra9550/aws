@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1701162050,,"wq!"
+|2,0,1701162416,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/index.txt
-|4,48,1,7,1701162050,"~/index.txt"
-'1  1  5  ~/sample.text
-|4,49,1,5,1701161607,"~/sample.text"
+'0  1  5  ~/sample2.txt
+|4,48,1,5,1701162416,"~/sample2.txt"
+'1  1  7  ~/index.txt
+|4,49,1,7,1701162050,"~/index.txt"
+'2  1  5  ~/sample.text
+|4,50,1,5,1701161607,"~/sample.text"
 
 # Jumplist (newest first):
+-'  1  5  ~/sample2.txt
+|4,39,1,5,1701162416,"~/sample2.txt"
+-'  1  7  ~/index.txt
+|4,39,1,7,1701162050,"~/index.txt"
 -'  1  7  ~/index.txt
 |4,39,1,7,1701162050,"~/index.txt"
 -'  1  5  ~/sample.text
 |4,39,1,5,1701161607,"~/sample.text"
 -'  1  5  ~/sample.text
 |4,39,1,5,1701161607,"~/sample.text"
+-'  1  5  ~/sample.text
+|4,39,1,5,1701161607,"~/sample.text"
+-'  1  5  ~/sample.text
+|4,39,1,5,1701161607,"~/sample.text"
 
 # History of marks within files (newest to oldest):
+
+> ~/sample2.txt
+	*	1701162411	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
 
 > ~/index.txt
 	*	1701162045	0
